@@ -1,1 +1,2 @@
-"# cn-java-meetup-2022-image-labeling-tensorflow" 
+- Pass input and output img paths when execute the program.
+- I have used pretrained model for this demo, so I did not upload on git the model and variables. It is property of Standford, but please let me know if you are particularly interested in that model. 
